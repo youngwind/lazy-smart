@@ -6,7 +6,7 @@
   "bin": "lib/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "git add . && git commit -m 'fix bug' && npm version patch && git add . && git commit -m 'change version' && npm publish && git push --follow-tags"
+    "version": "npm publish && git push --follow-tags"
   },
   "repository": {
     "type": "git",
