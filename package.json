@@ -1,6 +1,6 @@
 {
   "name": "lazy-smart",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "smartstudy generator",
   "main": "index.js",
   "bin": "lib/cli.js",
