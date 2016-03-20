@@ -1,0 +1,12 @@
+@import 'var';
+
+//other style
+
+h1 {
+  color: $red;
+}
+
+.demo {
+  background-image: url($cdnprefix + 'demo.png');
+}
+

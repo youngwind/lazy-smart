@@ -1,0 +1,22 @@
+{
+  "name": "frontend-demo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "liangshaofeng <liangshaofeng@innobuddy.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.12.0",
+    "bootstrap-datepicker": "~1.6.0"
+  }
+}
