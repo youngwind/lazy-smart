@@ -1,12 +1,12 @@
 {
   "name": "lazy-smart",
-  "version": "0.1.5",
+  "version": "0.1.17",
   "description": "smartstudy generator",
   "main": "index.js",
   "bin": "lib/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "npm version patch && npm publish && git push --follow-tags"
+    "version": "git add . && git commit -m 'fix bug' && npm version patch && git add . && git commit -m 'change version' && npm publish && git push --follow-tags"
   },
   "repository": {
     "type": "git",
