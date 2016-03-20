@@ -3,3 +3,6 @@
 public
 node_modules
 bower_components
+src/common/config.js
+
+
